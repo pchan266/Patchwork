@@ -22,4 +22,4 @@ Novel Game Mechanic: Assemble your character using body parts scattered around t
 - Krita (graphics)
 
 ## Notes
-This project was a collaborative assignment developed for CISC 226: Game Design at Queen's University. UI instructions for controls not yet added.
+This project was a collaborative assignment developed for CISC 226: Game Design at Queen's University. UI instructions for controls not yet added. See _Releases_.
